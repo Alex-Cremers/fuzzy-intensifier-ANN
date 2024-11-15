@@ -1,0 +1,1 @@
+This repo contains ongoing experimentation on neural nets with fuzzy logic translations.
